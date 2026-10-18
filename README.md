@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, I'm Mohammed Altaf Sabri 👋
 
-<!--
-**m-altaf-sabri/m-altaf-sabri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 **Frontend Web Developer** passionate about building clean, responsive, and high-performance websites.
+- ⚡ **Airtel FTTH Professional** experienced in network infrastructure and field engineering.
+- ☁️ **Cloud Explorer** learning the fundamentals of AWS (EC2, S3, and cloud deployment).
+- 🚀 Portfolio live at [altafsabri.pages.dev](https://altafsabri.pages.dev/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages & Frameworks:** HTML5, CSS3, JavaScript, React JS
+- **Tools & Platforms:** Git, GitHub, Cloudflare Pages, VS Code
+- **Cloud & Infrastructure:** AWS (EC2, S3 basics), FTTH Fiber Networks
+
+---
+
