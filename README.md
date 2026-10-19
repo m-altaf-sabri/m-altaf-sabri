@@ -9,7 +9,7 @@
 
 ### 🛠️ Tech Stack & Skills
 - **Languages & Frameworks:** HTML5, CSS3, JavaScript, React JS
-- **Tools & Platforms:** Git, GitHub, Cloudflare Pages, VS Code
+- **Tools & Platforms:** Git, GitHub, Cloud flare Pages, VS Code
 - **Cloud & Infrastructure:** AWS (EC2, S3 basics), FTTH Fiber Networks
 
 ---
